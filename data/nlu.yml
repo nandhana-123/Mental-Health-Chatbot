@@ -1,0 +1,68 @@
+
+# version: "3.1"
+# nlu:
+# - intent: start_assessment
+#   examples: |
+#     - I want to take the assessment
+#     - Start mental health test
+#     - Begin assessment
+
+# - intent: provide_response
+#   examples: |
+#     - 1
+#     - 2
+#     - 3
+#     - 4
+#     - 5
+
+# - intent: stop_assessment
+#   examples: |
+#     - I want to stop
+#     - Cancel assessment
+#     - End test
+
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - Hi
+    - Hello
+    - Hey
+    - Good morning
+    - Good evening
+    - Hi there
+
+- intent: goodbye
+  examples: |
+    - Bye
+    - Goodbye
+    - See you later
+    - Take care
+    - Farewell
+
+
+
+- intent: start_assessment
+  examples: |
+    - I want to take a mental health assessment
+    - Start the assessment
+    - Can we do the mental health test?
+    - Begin the mental health check
+    - yes
+    - No
+
+- intent: provide_response
+  examples: |
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - Almost never
+    - Sometimes
+    - Often
+    - Constantly
+    - Excellent
+    - Poor
+    - Prefer not to answer
