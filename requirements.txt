@@ -165,7 +165,4 @@ wrapt==1.14.1
 wsproto==1.2.0
 yarl==1.15.2
 zipp==3.20.2
-rasa==3.6.16
-flask==2.2.5
-requests
 gunicorn
