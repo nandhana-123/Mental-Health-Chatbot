@@ -25,7 +25,7 @@ click==8.1.8
 cloudpickle==3.1.1
 colorama==0.4.6
 colorclass==2.2.2
-coloredlogs==15.0.1
+coloredlogs==14.0
 colorhash==1.2.1
 cryptography==44.0.0
 cycler==0.12.1
@@ -40,7 +40,7 @@ flatbuffers==24.12.23
 fonttools==4.55.3
 frozenlist==1.5.0
 fsspec==2024.12.0
-future==1.0.0
+future==0.18.3
 gast==0.4.0
 google-auth==2.37.0
 google-auth-oauthlib==1.0.0
@@ -86,7 +86,7 @@ pluggy==1.5.0
 portalocker==2.10.1
 prompt-toolkit==3.0.28
 propcache==0.2.0
-protobuf==4.23.3
+protobuf==4.25.3
 psycopg2-binary==2.9.9
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
