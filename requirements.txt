@@ -164,3 +164,4 @@ wsproto==1.2.0
 yarl==1.15.2
 zipp==3.20.2
 gunicorn
+confluent-kafka
